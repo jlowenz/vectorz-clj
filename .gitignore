@@ -7,3 +7,5 @@
 /.nrepl-port
 /bin/
 /.lein-repl-history
+.idea
+*.iml
